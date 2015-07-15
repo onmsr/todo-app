@@ -1,0 +1,12 @@
+@import "config";
+
+body {
+    color: $color-base;
+    font-size: $fontsize-base;
+}
+
+#app-container {
+		position: relative;
+		top: 50px;
+}
+

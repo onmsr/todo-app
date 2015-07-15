@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-todo-app",
+  "version": "1.0.0",
+  "description": "todo app by reactjs",
+  "main": "index.js",
+  "scripts": {
+    "watch": "./node_modules/.bin/gulp",
+    "build": "./node_modules/.bin/gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.3",
+    "browserify": "^10.2.6",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.0.3",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
